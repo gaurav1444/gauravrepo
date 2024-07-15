@@ -1,3 +1,3 @@
 # gauravrepo
 studying
-Author-Gaurva Paul
+Author-Gaurav Paul
